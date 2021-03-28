@@ -2,6 +2,6 @@
 
 layouy:slide'
 
-title "Welcome to our second slide!"
+title "velkommen til den anden!"
 ---
 Her er min tekst
